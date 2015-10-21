@@ -1,0 +1,52 @@
+special case ALEX.KHOSHGEBARI@ORACLE.COM 156
+special case JORDAN.LILLEGARD@ORACLE.COM 146
+special case JORDAN.LILLEGARD@ORACLE.COM 154
+special case JORDAN.LILLEGARD@ORACLE.COM 155
+special case JORDAN.LILLEGARD@ORACLE.COM 156
+special case JORDAN.LILLEGARD@ORACLE.COM 169
+special case JORDAN.LILLEGARD@ORACLE.COM 170
+special case JORDAN.LILLEGARD@ORACLE.COM 171
+special case JORDAN.LILLEGARD@ORACLE.COM 172
+special case JORDAN.LILLEGARD@ORACLE.COM 173
+special case JORDAN.LILLEGARD@ORACLE.COM 177
+special case JORDAN.LILLEGARD@ORACLE.COM 180
+special case JORDAN.LILLEGARD@ORACLE.COM 182
+special case JORDAN.LILLEGARD@ORACLE.COM 183
+special case JORDAN.LILLEGARD@ORACLE.COM 184
+special case JORDAN.LILLEGARD@ORACLE.COM 185
+special case JORDAN.LILLEGARD@ORACLE.COM 186
+special case JORDAN.LILLEGARD@ORACLE.COM 189
+changed Geoff Greenwade's email from null to ggreenwade@greenbank.com on user STEPHEN.WEDEL@ORACLE.COM
+changed James Press's email from null to james.press@gcserv.com on user STEPHEN.WEDEL@ORACLE.COM
+changed Marc Paige's email from null to marc.paige@gcserv.com on user STEPHEN.WEDEL@ORACLE.COM
+changed T. Scott Kreinbring's email from null to t@primewayfcu.com on user STEPHEN.WEDEL@ORACLE.COM
+changed Mark Mikel's email from null to mmikel@primewayfcu.com on user STEPHEN.WEDEL@ORACLE.COM
+changed David Dang's email from null to ddang@primewayfcu.com on user STEPHEN.WEDEL@ORACLE.COM
+changed Derrell Krebs's email from null to dkrebs@germaniainsurance.com on user STEPHEN.WEDEL@ORACLE.COM
+changed Tom Bonos's email from null to tbonos@applause.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Nick Rusiniak's email from null to nrusiniak@applause.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Mark Moretti's email from null to mmoretti@atrion.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Allen Schweitzer's email from null to allen.schweitzer@brafton.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Alec Francesconi's email from null to alec.francesconi@cantina.co on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Andrea Chirasello's email from null to andrea.chirasello@cantina.co on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Jeff Wallace's email from null to wallace@aware.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Brendan Day's email from null to brendan.day@atalasoft.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Andrew Paulsen's email from null to andrew.paulsen@basistech.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Dan Maude's email from null to m.dan@beaconservices.com on user BROOKE.MCLAUGHLIN@ORACLE.COM
+changed Pranav KS's email from null to pranav@testinsane.com on user TEST_AMBIKAK1014@PROJECTSTEPWELLS.COM
+changed Alberto Acosta's email from null to alberto.acosta@pmcs.com on user REID.MOSEY@ORACLE.COM
+changed Carolyn Elloumi's email from null to carolyn.elloumi@pmcs.com on user REID.MOSEY@ORACLE.COM
+changed Ben Khau's email from null to bkhau@alpine-usa.com on user KIMYA.RAHNEMA@ORACLE.COM
+changed Kunihiko Sato's email from null to ksato@alpine-usa.com on user KIMYA.RAHNEMA@ORACLE.COM
+changed Andrew Barrett's email from null to andrew.barrett@oracle.com on user ALEX.KHOSHGEBARI@ORACLE.COM
+changed Trevor Milne's email from null to trevor.milne@viterra.com on user JEFFERY.KUNDINGER@ORACLE.COM
+changed Rose Morley's email from null to rose.morley@viterra.com on user JEFFERY.KUNDINGER@ORACLE.COM
+changed Karen Steininger's email from null to ksteininger@lamar.com on user JEFFERY.KUNDINGER@ORACLE.COM
+changed Asaf Wexler's email from null to asaf@colabo.com on user TEST_AMBIKA109@PROJECTSTEPWELLS.COM
+changed Shani Band's email from null to shani@colabo.com on user TEST_AMBIKA109@PROJECTSTEPWELLS.COM
+changed Natalie Balbul's email from null to natalie@colabo.com on user TEST_AMBIKA109@PROJECTSTEPWELLS.COM
+changed Veronica Edwards's email from null to veronica@ingenesis.org on user JUNE.SCHAUFUS@ORACLE.COM
+changed Jeff Lass's email from null to jeff.lass@wayne.com on user JUNE.SCHAUFUS@ORACLE.COM
+changed Alina Tylman's email from null to tylmana@worldkitchen.com on user SCOTT.LARSSON@ORACLE.COM
+changed Richard Jurek's email from null to jurek@inlandgroup.com on user SCOTT.LARSSON@ORACLE.COM
+changed Andrew Warburton's email from null to warburtona@worldkitchen.com on user SCOTT.LARSSON@ORACLE.COM
