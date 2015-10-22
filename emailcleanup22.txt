@@ -1,0 +1,329 @@
+special case WGSHARPE1128@GMAIL.COM 147
+special case WGSHARPE1128@GMAIL.COM 147
+special case WGSHARPE1128@GMAIL.COM 148
+special case WGSHARPE1128@GMAIL.COM 149
+special case WGSHARPE1128@GMAIL.COM 150
+special case WGSHARPE1128@GMAIL.COM 151
+special case WGSHARPE1128@GMAIL.COM 152
+special case WGSHARPE1128@GMAIL.COM 153
+special case WGSHARPE1128@GMAIL.COM 154
+special case WGSHARPE1128@GMAIL.COM 155
+special case WGSHARPE1128@GMAIL.COM 156
+special case WGSHARPE1128@GMAIL.COM 157
+special case WGSHARPE1128@GMAIL.COM 158
+special case WGSHARPE1128@GMAIL.COM 159
+special case TIM.BRENNAN@ORACLE.COM 157
+special case TIM.BRENNAN@ORACLE.COM 199
+special case TIM.BRENNAN@ORACLE.COM 200
+special case LYNN.KAMINSKI@ORACLE.COM 146
+special case LYNN.KAMINSKI@ORACLE.COM 276
+special case LYNN.KAMINSKI@ORACLE.COM 368
+special case LYNN.KAMINSKI@ORACLE.COM 231
+special case LYNN.KAMINSKI@ORACLE.COM 348
+special case PAUL.ANDREWS@ORACLE.COM 154
+special case PAUL.ANDREWS@ORACLE.COM 156
+special case PAUL.ANDREWS@ORACLE.COM 157
+special case PAUL.ANDREWS@ORACLE.COM 161
+special case PAUL.ANDREWS@ORACLE.COM 164
+special case PAUL.ANDREWS@ORACLE.COM 165
+special case PAUL.ANDREWS@ORACLE.COM 166
+special case PAUL.ANDREWS@ORACLE.COM 167
+special case PAUL.ANDREWS@ORACLE.COM 168
+special case PAUL.ANDREWS@ORACLE.COM 151
+special case PAUL.ANDREWS@ORACLE.COM 152
+special case PAUL.ANDREWS@ORACLE.COM 153
+special case PAUL.ANDREWS@ORACLE.COM 155
+special case PAUL.ANDREWS@ORACLE.COM 158
+special case PAUL.ANDREWS@ORACLE.COM 159
+special case PAUL.ANDREWS@ORACLE.COM 160
+special case PAUL.ANDREWS@ORACLE.COM 162
+special case PAUL.ANDREWS@ORACLE.COM 163
+special case PAUL.ANDREWS@ORACLE.COM 170
+special case PAUL.ANDREWS@ORACLE.COM 171
+special case PAUL.ANDREWS@ORACLE.COM 172
+special case PAUL.ANDREWS@ORACLE.COM 174
+special case PAUL.ANDREWS@ORACLE.COM 175
+special case PAUL.ANDREWS@ORACLE.COM 176
+special case PAUL.ANDREWS@ORACLE.COM 177
+special case PAUL.ANDREWS@ORACLE.COM 179
+special case PAUL.ANDREWS@ORACLE.COM 180
+special case PAUL.ANDREWS@ORACLE.COM 181
+special case PAUL.ANDREWS@ORACLE.COM 183
+special case PAUL.ANDREWS@ORACLE.COM 184
+special case PAUL.ANDREWS@ORACLE.COM 185
+special case PAUL.ANDREWS@ORACLE.COM 186
+special case PAUL.ANDREWS@ORACLE.COM 187
+special case PAUL.ANDREWS@ORACLE.COM 188
+special case PAUL.ANDREWS@ORACLE.COM 190
+special case PAUL.ANDREWS@ORACLE.COM 189
+special case PAUL.ANDREWS@ORACLE.COM 191
+special case PAUL.ANDREWS@ORACLE.COM 192
+special case PAUL.ANDREWS@ORACLE.COM 146
+special case PAUL.ANDREWS@ORACLE.COM 147
+special case PAUL.ANDREWS@ORACLE.COM 148
+special case PAUL.ANDREWS@ORACLE.COM 149
+special case PAUL.ANDREWS@ORACLE.COM 150
+special case EARLYSENSE@COLABO.COM 336
+changed Mark Janiszewski's email from null to mark.janiszewski@greenwayhealth.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Tor Loege's email from null to tor.loege@greenwayhealth.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Craig Tarr's email from null to tcraig@daytonainternationalspeedway.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Matt Rigg's email from null to mrigg@barniescoffeekitchen.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Christie Pelham's email from null to cpelham@grandincentives.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Tim Eggert's email from null to teggert@barniescoffeekitchen.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Doug Bateman's email from null to doug.bateman@advhomecare.org on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed John Weber's email from null to john.weber@softwaretoolbox.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Todd Campbell's email from null to todd.campbell@greenwayhealth.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Debbie Lankford's email from null to debbie.lankford@remington.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Travis Kennedy's email from null to tkennedy@thompsongroup.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Susan Comey's email from null to susan.comey@advhomecare.org on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Andrea Gordon's email from null to andreag@sccu.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Greg DeRoy's email from null to gregd@sccu.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Eddie Matias's email from null to e.matias@ubreakifix.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Michael Turner's email from null to michael.turner@greenwayhealth.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Dan Cosenzo's email from null to dcosenzo@stlukeseye.com on user JAKE.ISBRANDTSEN@ORACLE.COM
+changed Russell King's email from null to russell.king@clr.com on user JAMIE.HOFFMANN@ORACLE.COM
+changed Laura Philbin's email from null to laura.philbin@clr.com on user JAMIE.HOFFMANN@ORACLE.COM
+changed Steve Kun's email from null to skun@maverikcenter.com on user MARK.SHEESER@ORACLE.COM
+changed Brian Garavuso's email from null to brian.garavuso@diamondresorts.com on user MARK.SHEESER@ORACLE.COM
+changed Julie Hart Barnett's email from null to julie.barnett@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Nicole Heiman's email from null to nicole.heiman@diamondresorts.com on user MARK.SHEESER@ORACLE.COM
+changed Keith Marcos's email from null to keith.marcos@diamondresorts.com on user MARK.SHEESER@ORACLE.COM
+changed Kayce Brown's email from null to kayce.brown@diamondresorts.com on user MARK.SHEESER@ORACLE.COM
+changed Danny Paxton's email from null to dpaxton@alsco.com on user MARK.SHEESER@ORACLE.COM
+changed Charles Kris Romeril's email from null to rcharles@gmail.com on user MARK.SHEESER@ORACLE.COM
+changed Ken Knapton, MBA's email from null to ken@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Kelsea McVey's email from null to kelsea.mcvey@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Pamela Carrier's email from null to c.pamela@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Anne Stuart's email from null to sanne@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Lorenzo Napenias's email from null to n.lorenzo@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Amy Lenkszus's email from null to lamy@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Rachel Heitz's email from null to rachel.heitz@chghealthcare.com on user MARK.SHEESER@ORACLE.COM
+changed Judy Marostica's email from null to judy.marostica@chghealthcare.com on user MARK.SHEESER@ORACLE.COM
+changed Kurt Anderson's email from null to kurt@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Kelsie Dinsdale's email from null to kelsie.dinsdale@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed Jig Patel - Patel's email from null to jig.patel@gmail.com on user MARK.SHEESER@ORACLE.COM
+changed Alex Dagel's email from null to adagel@maverikcenter.com on user MARK.SHEESER@ORACLE.COM
+changed Chris Munson's email from null to chris@munsons.net on user MARK.SHEESER@ORACLE.COM
+changed Joann Donelon's email from null to joann.donelon@climatetalk.org on user MARK.SHEESER@ORACLE.COM
+changed Mike Johnson's email from null to mike.johnson@gmail.com on user MARK.SHEESER@ORACLE.COM
+changed Daniel Prager's email from null to daniel.prager@nuskin.com on user MARK.SHEESER@ORACLE.COM
+changed Joel Erickson's email from null to joel.erickson@nuskin.com on user MARK.SHEESER@ORACLE.COM
+changed Josh Hogan's email from null to josh.hogan@nuskin.com on user MARK.SHEESER@ORACLE.COM
+changed Robert Simmons's email from null to robert.simmons@skywest.com on user MARK.SHEESER@ORACLE.COM
+changed Eric Stine's email from null to estine@alsco.com on user MARK.SHEESER@ORACLE.COM
+changed Emma Wimberley's email from null to emmawimberley@utahama.org on user MARK.SHEESER@ORACLE.COM
+changed David Welch's email from null to david.welch@gmail.com on user MARK.SHEESER@ORACLE.COM
+changed Gino Ferro's email from null to gino@msn.com on user MARK.SHEESER@ORACLE.COM
+changed Brian Dimit's email from null to dimit.brian@avalonhci.com on user MARK.SHEESER@ORACLE.COM
+changed John Steinhubl's email from null to ssteinhubl@premiumretail.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Colleen Heck Elliott's email from null to elliott.colleen@premiumretail.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Paul Rooney's email from null to rooneyp@shure.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Michael Dandenault's email from null to michael.dandenault@huffybikes.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Shane Addison's email from null to saddison@firstmid.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Monica Giesler's email from null to mgiesler@dayair.org on user JIMMY.CONNOLLY@ORACLE.COM
+changed Bettina Buscemi's email from null to bbuscemi@dayair.org on user JIMMY.CONNOLLY@ORACLE.COM
+changed Dennis Spangler's email from null to dspangler@kitchencollection.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Justice Gray's email from null to jgray@kitchencollection.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Brian Higgins's email from null to brian.higgins@uc.edu on user JIMMY.CONNOLLY@ORACLE.COM
+changed Ginger Rohlfs's email from null to ginger.rohlfs@parts-express.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Sheila Kern's email from null to k-sheila@stanleysteemer.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Tom Juncewicz's email from null to j.tom@stanleysteemer.com on user JIMMY.CONNOLLY@ORACLE.COM
+changed Keelan Durnien's email from null to keelan.durnien@broadridge.com on user JEFF.DAHLGARD@ORACLE.COM
+changed Mike Rader's email from null to mrader@envistacorp.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed J.J. Berrall-Schambow's email from null to jschambow@envistacorp.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Ilango Radhakrishnan's email from null to ilango@viva-it.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Vasanthi Ilangovan's email from null to vasanthi@viva-it.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Varuna Singh's email from null to vsingh@viva-it.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Nick Fera's email from null to nick.fera@firm58.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed CJ Berg's email from null to bcj@champlog.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Bob Polock's email from null to bpolock@bekins.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Mike McKee's email from null to mike@controls.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Margaret Thornton's email from null to tthornton@lifequotes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jerrod Carter's email from null to jcarter@wheatonworldwide.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Michelle S. Tolczyk-Zieba's email from null to zieba.s@lifequotes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Robert Goss's email from null to goss@lifequotes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Challenger's email from null to jchallenger@challengergray.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Regis Charlot's email from null to regis.charlot@e-imo.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Drey Lucibello's email from null to drey.lucibello@champlog.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Dennis Carson's email from null to dcarson@e-imo.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jim Barnes's email from null to jbarnes@envistacorp.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Lynn Donnell's email from null to lynn@blackeaglesecurityteam.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Robert Swanson's email from null to rswanson@dcvast.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Donald Swanson's email from null to dswanson@dcvast.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Larry Shalzi's email from null to larry@dcvast.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Kevin P. McConkey's email from null to kevin.mcconkey@champlog.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Bloome's email from null to john.bloome@firm58.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Scott McCulley's email from null to scott.mcculley@firm58.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Stitz's email from null to jstitz@envistacorp.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jim Mullen's email from null to jim.mullen@firm58.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Matt Schwartz's email from null to mschwartz@e-imo.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Keith Lessert's email from null to klessert@e-imo.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Bill Glase's email from null to bglase@controls.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Marina Samborskaya's email from null to msamborskaya@dcvast.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Adam Garcia's email from null to adam@officedesigns.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Phil Cooper's email from null to phil@skysailsoft.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jess Hanebury's email from null to jessh@threadless.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Brianne Hattaway's email from null to brianne@threadless.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jake Nickell's email from null to jake@threadless.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Dustin Henderlong's email from null to dustin.henderlong@threadless.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Kyle Geib's email from null to kyleg@threadless.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Tim Cleland's email from null to tim.cleland@botanicchoice.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Steve Pierce's email from null to steve.pierce@botanicchoice.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Suzanne Pirowski's email from null to spirowski@botanicchoice.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Michael D. Robinson's email from null to michael@livelob.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jim Lillig's email from null to jim@livelob.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Dan Zawacki's email from null to dan@livelob.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jason Frye's email from null to jfrye@news-gazette.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Cassandra Schowengerdt's email from null to cschowengerdt@news-gazette.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Karen Cruise's email from null to karenc@news-gazette.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Reed's email from null to jreed@news-gazette.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Peter Papakyriacou's email from null to peter.papakyriacou@bairdwarner.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jennifer Alter Warden's email from null to jennifer.warden@bairdwarner.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Bill Sudlow's email from null to bill.sudlow@zsassociates.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Prabha Sinha's email from null to prabha.sinha@zsassociates.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Chris Wright's email from null to chris.wright@zsassociates.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Scott Sims's email from null to scott.sims@zsassociates.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Kris Gursky Robbins's email from null to kris.robbins@teammjv.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Mike Donnelly's email from null to mike@empiretoday.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Susan Burns's email from null to susan.burns@omnicell.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Haro's email from null to john.haro@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Rebecca Grimes's email from null to rebecca.grimes@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Alex Campbell's email from null to alex.campbell@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Mark Tack's email from null to mark.tack@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jim Kreller's email from null to jim.kreller@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jack Philbin's email from null to jack.philbin@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Cheryl Sanders's email from null to cheryl.sanders@vibes.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Patrick Cruz's email from null to pcruz@jaxmediateam.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Kasey Prickel's email from null to kprickel@orthoindy.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jane Keller's email from null to jkeller@orthoindy.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Sean Reddington's email from null to sreddington@orthoindy.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Joseph Gajc's email from null to joseph.gajc@therdigroup.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Edwin Kurian's email from null to ekurian@hce.org on user CRAIG.SPELBRINK@ORACLE.COM
+changed Douglas Dunham's email from null to ddunham@hce.org on user CRAIG.SPELBRINK@ORACLE.COM
+changed Rob Taylor's email from null to rtaylor@shorr.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Gary Hively's email from null to ghively@shorr.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Joseph Searcy's email from null to jsearcy@shorr.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Craig Funkhouser's email from null to ccraig@shorr.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Clint Jones's email from null to clint@norvax.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Brian Katz's email from null to brian.katz@lbox.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Nick J. Maloof's email from null to nmaloof@maloofrealty.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Andy Northcutt's email from null to andy@totalattorneys.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Elizabeth Newman's email from null to enewman@totalattorneys.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Greg Pengiel's email from null to greg@webqa.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Dilenschneider's email from null to jdilenschneider@webqa.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed William Repole's email from null to wrepole@webqa.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Jason Howard's email from null to jhoward@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Mark Marshall's email from null to mmarshall@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Sue Sentell's email from null to ssentell@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Ron Mayer's email from null to rmayer@projectassociatesinc.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed John Christensen's email from null to john.christensen@dynamiccatholic.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Paul Pietrowski's email from null to ppietrowski@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Michael Luce's email from null to mluce@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Steve Hasselbeck's email from null to shasselbeck@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Kristen Rose Miller's email from null to kmiller@gladson.com on user CRAIG.SPELBRINK@ORACLE.COM
+changed Rick Huff's email from null to rick.huff@kubra.com on user STEPHEN.PIKE@ORACLE.COM
+changed Jon Riis's email from null to jon.riis@corel.com on user STEPHEN.PIKE@ORACLE.COM
+changed Bill Vellante's email from null to bvellante@axonify.com on user STEPHEN.PIKE@ORACLE.COM
+changed Michel Divet's email from null to michel.divet@dental-wings.com on user STEPHEN.PIKE@ORACLE.COM
+changed Ron Roche's email from null to ron.roche@dental-wings.com on user STEPHEN.PIKE@ORACLE.COM
+changed Steven Touchie's email from null to steven.touchie@dental-wings.com on user STEPHEN.PIKE@ORACLE.COM
+changed Mark Murphy's email from null to mark@premiertech.com on user STEPHEN.PIKE@ORACLE.COM
+changed Joey Vaccaro,CPA,CA's email from null to joey.vaccaro@acceo.com on user STEPHEN.PIKE@ORACLE.COM
+changed Fred Bruns's email from null to fbruns@medicalpharmacies.com on user STEPHEN.PIKE@ORACLE.COM
+changed Jack Mullen's email from null to jack.mullen@westpakavocado.com on user STEPHEN.PIKE@ORACLE.COM
+changed Berenice Martinez's email from null to berenice.martinez@westpakavocado.com on user STEPHEN.PIKE@ORACLE.COM
+changed James Wogan's email from null to james_w@berkeley.edu on user TIM.BRENNAN@ORACLE.COM
+changed Rebecca Daro's email from null to rebecca.daro@ucsf.edu on user TIM.BRENNAN@ORACLE.COM
+changed Debi Enright's email from null to debie@ucr.edu on user TIM.BRENNAN@ORACLE.COM
+changed Joshua Hoerger's email from null to joshua.hoerger@ucr.edu on user TIM.BRENNAN@ORACLE.COM
+changed Mark Jenkinson's email from null to mark@berkeley.edu on user TIM.BRENNAN@ORACLE.COM
+changed Leslie Santos's email from null to leslie.santos@ucsf.edu on user TIM.BRENNAN@ORACLE.COM
+changed Clare Hansen-Shinnerl's email from null to clare.shinnerl@ucsf.edu on user TIM.BRENNAN@ORACLE.COM
+changed Mary-Ann Cogan's email from null to mary@berkeley.edu on user TIM.BRENNAN@ORACLE.COM
+changed Fred Pensotti's email from null to fred.pensotti@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Rick Grooms's email from null to rick.grooms@anmedhealth.org on user ADAM.M.STEINER@ORACLE.COM
+changed Peter Routsis's email from null to peter.routsis@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Surena Ebrahimi's email from null to surena.ebrahimi@iscmotorsports.com on user ADAM.M.STEINER@ORACLE.COM
+changed Amey Kelkar's email from null to akelkar@e-one.com on user ADAM.M.STEINER@ORACLE.COM
+changed Ranga Ocholi's email from null to ranga.ocholi@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Benton Peel's email from null to benton.peel@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Ginny Hoce's email from null to ginny.hoce@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Skip Cooke's email from null to skip.cooke@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Tim Buffington's email from null to tim.buffington@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Brian Leahy's email from null to brian.leahy@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Chris Yost's email from null to chris.yost@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Todd Tyner's email from null to todd.tyner@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Pam McGregor's email from null to pmcgregor@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Kevin McEntee's email from null to kevin.mcentee@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Reginald Fells's email from null to reginald.fells@interlinebrands.com on user ADAM.M.STEINER@ORACLE.COM
+changed Patrice Smith's email from null to patrice.smith@asig.com on user ADAM.M.STEINER@ORACLE.COM
+changed Stephanie Kowalski's email from null to stephanie.kowalski@asig.com on user ADAM.M.STEINER@ORACLE.COM
+changed Logan Pinckney's email from null to logan.pinckney@oracle.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Chad Shero's email from null to cshero@mybluegrace.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Stephen Moore's email from null to stephen.moore@efi.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Gabriel (Gaby) Matsliach's email from null to gabriel.matsliach@efi.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Wendy Sykes-Lague's email from null to wendy.lague@efi.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Sean Roberts's email from null to sean.roberts@efi.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Trevor Schulze's email from null to tschulze@micron.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Rachel Minion's email from null to rachel.minion@efi.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Eric Endebrock's email from null to eric@micron.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Scott DeBoer's email from null to sdeboer@micron.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Chris Early's email from null to chris@iepro.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Murray Bannerman's email from null to murray.bannerman@traffictech.com on user LYNN.KAMINSKI@ORACLE.COM
+changed Madison Meyer's email from null to madison.meyer@safeway.com on user KENIA.LAZO@ORACLE.COM
+changed TJ Johnson's email from null to tj.johnson@fosterfarms.com on user KENIA.LAZO@ORACLE.COM
+changed Brian Reilly's email from null to brian.reilly@crain.com on user PAUL.ANDREWS@ORACLE.COM
+changed Ilana Klein's email from null to i_ilana@crain.com on user PAUL.ANDREWS@ORACLE.COM
+changed Pamela G, PMP's email from null to pamela.pmp@crain.com on user PAUL.ANDREWS@ORACLE.COM
+changed Alaina Scott's email from null to alaina@crain.com on user PAUL.ANDREWS@ORACLE.COM
+changed Laura Livingston's email from null to laura.livingston@alliedsolutions.net on user PAUL.ANDREWS@ORACLE.COM
+changed Bill Haynes's email from null to bill.haynes@alliedsolutions.net on user PAUL.ANDREWS@ORACLE.COM
+changed Brett Mitchell's email from null to brett.mitchell@alliedsolutions.net on user PAUL.ANDREWS@ORACLE.COM
+changed Michael Naughton's email from null to michael.naughton@alliedsolutions.net on user PAUL.ANDREWS@ORACLE.COM
+changed Loredana Tomassetti's email from null to loredana.tomassetti@gmail.com on user PAUL.ANDREWS@ORACLE.COM
+changed Rajesh Alagarsamy's email from null to rajesh.r@technosoftcorp.com on user PAUL.ANDREWS@ORACLE.COM
+changed Scott Shulman's email from null to sshulman@newtekbusinessservices.com on user PAUL.ANDREWS@ORACLE.COM
+changed Anand Ramachandran's email from null to anand.ramachandran@zoetis.com on user PAUL.ANDREWS@ORACLE.COM
+changed Andrew Fenton's email from null to andrew.fenton@zoetis.com on user PAUL.ANDREWS@ORACLE.COM
+changed Amy Reilly's email from null to amy.reilly@cinglevue.com on user PAUL.ANDREWS@ORACLE.COM
+changed Mike DeGregorio's email from null to mike.degregorio@cinglevue.com on user PAUL.ANDREWS@ORACLE.COM
+changed Kevin French's email from null to kevin.french@stuzo.com on user PAUL.ANDREWS@ORACLE.COM
+changed Lisa Conner's email from null to lisa.conner@cinglevue.com on user PAUL.ANDREWS@ORACLE.COM
+changed Emily Corrado's email from null to emily.corrado@stuzo.com on user PAUL.ANDREWS@ORACLE.COM
+changed Andrea Hogg's email from null to andrea.hogg@stuzo.com on user PAUL.ANDREWS@ORACLE.COM
+changed Daniel Smith's email from null to daniel@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Gregory Dillard's email from null to gregory.dillard@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Elissa Feldman's email from null to elissa.feldman@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Jeff Sachs's email from null to jeff.sachs@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Jesse Goldman's email from null to jesse.goldman@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Evan Brown's email from null to evan.brown@forafinancial.com on user PAUL.ANDREWS@ORACLE.COM
+changed Richard Case's email from null to rcase@centerviewpartners.com on user PAUL.ANDREWS@ORACLE.COM
+changed Benjamin Cohen's email from null to benjamin.cohen@mendes.com on user PAUL.ANDREWS@ORACLE.COM
+changed Brad R. Murphy's email from null to brad.murphy@ey.com on user PAUL.ANDREWS@ORACLE.COM
+changed Nicole Koopman's email from null to nicole.koopman@ey.com on user PAUL.ANDREWS@ORACLE.COM
+changed Robert Cohen's email from null to rcohen@heyhush.com on user PAUL.ANDREWS@ORACLE.COM
+changed David Schwarz's email from null to david.schwarz@heyhush.com on user PAUL.ANDREWS@ORACLE.COM
+changed Dan Rodriguez's email from null to dan.rodriguez@heyhush.com on user PAUL.ANDREWS@ORACLE.COM
+changed Ryan McGrath's email from null to ryan.mcgrath@heyhush.com on user PAUL.ANDREWS@ORACLE.COM
+changed Nolan Farris's email from null to nolan@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Matt Molinari's email from null to matt@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Paul D&apos;Arcy's email from null to paul@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Anne Murguia's email from null to anne@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Paul Wolfe's email from null to paul@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Alexa Alpert's email from null to alexaa@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Chris Hyams's email from null to hyams@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Anne Murguia's email from null to anne@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Mary Ellen Dugan's email from null to mary@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Ed Lally's email from null to ed@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Charles Valentine's email from null to charles@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Catherine O&apos;Sullivan's email from null to catherineo@indeed.com on user PAUL.ANDREWS@ORACLE.COM
+changed Jon Brooks's email from null to jon.brooks@webcollage.com on user PAUL.ANDREWS@ORACLE.COM
+changed Gil Nadav's email from null to gil.nadav@webcollage.com on user PAUL.ANDREWS@ORACLE.COM
+changed Morgan Hermand-Waiche's email from null to morgan.hermand@adoreme.com on user PAUL.ANDREWS@ORACLE.COM
+changed Sharon Klapka's email from null to sharon@adoreme.com on user PAUL.ANDREWS@ORACLE.COM
+changed Chloé Chanudet's email from null to chloe@adoreme.com on user PAUL.ANDREWS@ORACLE.COM
+changed Gabriela Parada's email from null to gabriela@adoreme.com on user PAUL.ANDREWS@ORACLE.COM
+changed Joel Brown's email from null to bbrown@alliancetime.com on user PAUL.ANDREWS@ORACLE.COM
+changed Marc Lepler's email from null to marc.lepler@webcollage.com on user PAUL.ANDREWS@ORACLE.COM
+changed Sudeep Ross, MD, MBA's email from null to sudeep.mba@kcumb.edu on user EARLYSENSE@COLABO.COM
+changed Jenson Wong's email from null to jenson.wong@ucsf.edu on user EARLYSENSE@COLABO.COM
