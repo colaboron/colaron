@@ -122,13 +122,13 @@ def email_by_id(user, bmid):
     try:
         jsonlist = json.loads(resp.text)
     except ValueError:
-        return True
+        return 0
     else:
         for item in jsonlist:
             if item['metadataKey'] == 'lead_email':
-                return False
+                return 0
                 
-    return True
+    return len(jsonlist)
 
 
 def logify_property_by_pid(user, bmid, prop):
@@ -285,31 +285,47 @@ def get_cw():
 
 CSVCw = cw = get_cw()
 start = time.time()
-idlist = []
-loglist = []
-otherlist = []
-idloglist = []
+logger = codecs.open('/home/ron/Documents/email/stats/emailcleanup%s.txt' % cw, mode='a', encoding='utf-8')
 csvlog = codecs.open('/home/ron/Documents/email/stats/emailcleanup%s.csv' % cw, mode='a', encoding='utf-8')
-csvlog.write('"User","Name","Email","Email_Guesser","Cloudwell"\n')
+csvlog.write('"User","Cloudwell","Lead_ID","Email","Lead_Name","Company_Name","Compand_Domain","blocks length"\n')
 cmd = 'ssh -T ubuntu@cw%s.colabo.com -o StrictHostKeyChecking=no -i ~ron/.ssh/stepwells_well-kp.pem -p 14422 -L%s:127.0.0.1:8080' % (cw, str(22212 + int(cw)))
 proc = subprocess.Popen(cmd, env=os.environ, shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 time.sleep(5)
 url = "http://localhost:%s/sql" % str(22212 + int(cw))
-spayload = {'sql' : 'select * from sw_lead where email!=\'naama@colabo.com\' and email!=\'\' and persona_bm_id is not null and real_create_time > \'2015-09-04\'', 'user' :  '-- all users --', 'json' : '1'}
+sql = "select l.id as lead_id,l.persona_bm_id,l.email,l.first_name,l.last_name,c.name,c.website from sw_lead as l join sw_company as c on l.company_id=c.id where l.persona_bm_id is not null and c.website is not null and c.website!='' and l.email!='null' and l.real_create_time > '2015-09-04'"
+spayload = {'sql' : sql, 'user' :  '-- all users --', 'json' : '1'}
 resp  = requests.post(url, data=spayload)
+print 'sent sql request'
+logger.write('sent sql request\n')
 jsonresp = json.loads(resp.text)
+print 'got json back'
+logger.write('got json back\n')
+userlist = []
+logger.write('going over all users in search of data\n')
+print 'going over all users in search of data'
 for user in jsonresp:
     for key in jsonresp[user]:
         if 'row' in key:
-            print 'mark'
-            bmid = jsonresp[user][key][43]
-            fname = jsonresp[user][key][1]
-            lname = jsonresp[user][key][2]
-            email = jsonresp[user][key][6]
-            guess = email_by_id(user, bmid)
-            csvlog.write('"%s","%s","%s","%s","%s"' % (user, fname + ' ' + lname, email, guess, cw))
+            print 'found data for user %s' % user
+            logger.write('found data for user %s\n' % user)
+            userlist.append([user, cw, jsonresp[user][key][0], jsonresp[user][key][1], jsonresp[user][key][2], jsonresp[user][key][3] + " " +  jsonresp[user][key][4], jsonresp[user][key][5], jsonresp[user][key][6]])
+print 'going over all users found, calling for blocksForBookmark'
+logger.write('going over all users found, calling for blocksForbookmark\n')
+for i in range(len(userlist)):
+    user, bmid = userlist[i][0], userlist[i][3]
+    reslen = email_by_id(user, bmid)
+    logger.write('called for blocksForBookmark and got a response\n')
+    print 'called for blocksForBookmark and got a response'
+    if reslen > 1:
+        userlist[i].remove(userlist[i][3])
+        userlist[i].append(reslen)
+        print 'writing to csv'
+        logger.write('writing to csv\n')
+        csvlog.write('"%s","%s","%s","%s","%s","%s","%s","%s"\n' % tuple(a for a in userlist[i]))
 
 print 'done'
+logger.write('done\n')
+logger.close
 csvlog.close()
 end = time.time()
 print end - start
