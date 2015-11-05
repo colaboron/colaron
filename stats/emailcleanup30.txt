@@ -1,0 +1,1261 @@
+sent sql request
+got json back
+going over all users in search of data
+found data for user nofar@colabo.com
+found data for user nofar@colabo.com
+found data for user nofar@colabo.com
+found data for user nofar@colabo.com
+found data for user nofar@colabo.com
+found data for user jessica.fernandez@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user james.welch@oracle.com
+found data for user melissa.laurin@oracle.com
+found data for user pro43@comcast.net
+found data for user pro43@comcast.net
+found data for user pro43@comcast.net
+found data for user pj.nee@oracle.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user jeff.palmer@daisygroup.com
+found data for user gibran.paul@act-on.net
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user steve.amoapim@oracle.com
+found data for user mark.miller@emergenetics.com
+found data for user mark.miller@emergenetics.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user sbishop@metiix.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user birst@colabo.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user dave.knox@oracle.com
+found data for user mallory.zeitlin@oracle.com
+found data for user mallory.zeitlin@oracle.com
+found data for user mallory.zeitlin@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user marina.liang@oracle.com
+found data for user courtney.avery@oracle.com
+found data for user courtney.avery@oracle.com
+found data for user courtney.avery@oracle.com
+found data for user courtney.avery@oracle.com
+found data for user courtney.avery@oracle.com
+found data for user ablack@deibellabs.com
+found data for user ablack@deibellabs.com
+found data for user ablack@deibellabs.com
+found data for user ablack@deibellabs.com
+found data for user ablack@deibellabs.com
+found data for user ablack@deibellabs.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user shimmelspach@otterbase.com
+found data for user wrobinson@xactlycorp.com
+found data for user wrobinson@xactlycorp.com
+found data for user wrobinson@xactlycorp.com
+found data for user ola.bayode@oracle.com
+found data for user chester.pepper@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user rocco.lucarelli@oracle.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user brad.osterhout@actonsoftware.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user connor.moore@oracle.com
+found data for user tim.eder@oracle.com
+found data for user tim.eder@oracle.com
+found data for user tim.eder@oracle.com
+found data for user tim.eder@oracle.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+found data for user paul.moynagh@fewzion.com
+going over all users found, calling for blocksForbookmark
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+called for blocksForBookmark and got a response
+writing to csv
+done
