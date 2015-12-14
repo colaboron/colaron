@@ -1,4 +1,4 @@
-        
+import sys        
 import subprocess, requests, json, time
 import codecs, sys, os
 from optparse import OptionParser
@@ -115,30 +115,20 @@ def change_email_to_null(user, fName, lName, oldmail, logger):
     logger.write('changed %s %s\'s email from %s to null on user %s\n' % (fName, lName, oldmail, user))
   
 
-def email_by_id(user, bmid, logger):
-    global CSVPersonaBmId, CSVPersonaBmBlocks, CSVLinkMail
+def email_by_id(user, bmid):
     url = "http://localhost:%s/admin" % str(22212 + int(cw))
-    payload = {'cmd' : "blocksForBookmark", 'scenario' : int(bmid), 'user' : user}
+    payload = {'cmd' : "blocksForBookmark", 'scenario' : bmid, 'user' : user}
     resp  = requests.post(url, data=payload)
     try:
         jsonlist = json.loads(resp.text)
     except ValueError:
-        logger.write("special case %s %s\n" % (user, bmid))
-        CSVPersonaBmId="Yes"
-        CSVPersonaBmBlocks="No"
-        CSVLinkMail="No"
+        return 0
     else:
         for item in jsonlist:
             if item['metadataKey'] == 'lead_email':
-                CSVLinkMail = "Yes"
-                CSVPersonaBmId = "Yes"
-                CSVPersonaBmBlocks = "Yes"
-                return item['metadataValue']
-        CSVPersonaBmId="Yes"
-        CSVPersonaBmBlocks="Yes"
-        CSVLinkMail="No"
+                return 0
                 
-    return ""
+    return len(jsonlist)
 
 
 def logify_property_by_pid(user, bmid, prop):
@@ -295,99 +285,47 @@ def get_cw():
 
 CSVCw = cw = get_cw()
 start = time.time()
-idlist = []
-loglist = []
-otherlist = []
-idloglist = []
-logger = codecs.open('/home/ron/Documents/email/emailcleanup%s.txt' % cw, mode='a', encoding='utf-8')
-csvlog = codecs.open('/home/ron/Documents/email/emailcleanup%s.csv' % cw, mode='a', encoding='utf-8')
-csvlog.write('User,Name,Company,OldEmail,NewEmail,PersonaBmId,PersonaBmBlocks,CloudWell,LinkedInEmail\n')
+logger = codecs.open('/home/ron/Documents/email/stats/emailcleanup%s.txt' % cw, mode='a', encoding='utf-8')
+csvlog = codecs.open('/home/ron/Documents/email/stats/emailcleanup%s.csv' % cw, mode='a', encoding='utf-8')
+csvlog.write('"User","Cloudwell","Lead_ID","Email","Lead_Name","Company_Name","Compand_Domain","blocks length"\n')
 cmd = 'ssh -T ubuntu@cw%s.colabo.com -o StrictHostKeyChecking=no -i ~ron/.ssh/stepwells_well-kp.pem -p 14422 -L%s:127.0.0.1:8080' % (cw, str(22212 + int(cw)))
 proc = subprocess.Popen(cmd, env=os.environ, shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 time.sleep(5)
-url = "http://localhost:%s/admin" % str(22212 + int(cw))
-fpayload={'cmd' : 'listUsers'}
-data = requests.get(url, params=fpayload)
-tempuserlist = data.text.split('\n')
-for item in tempuserlist[:]:
-    if 'logged-in' not in item:
-        tempuserlist.remove(item)
+url = "http://localhost:%s/sql" % str(22212 + int(cw))
+sql = "select l.id as lead_id,l.persona_bm_id,l.email,l.first_name,l.last_name,c.name,c.website from sw_lead as l join sw_company as c on l.company_id=c.id where l.persona_bm_id is not null and c.website is not null and c.website!='' and l.email!='null' and l.real_create_time > '2015-09-04'"
+spayload = {'sql' : sql, 'user' :  '-- all users --', 'json' : '1'}
+resp  = requests.post(url, data=spayload)
+print 'sent sql request'
+logger.write('sent sql request\n')
+jsonresp = json.loads(resp.text)
+print 'got json back'
+logger.write('got json back\n')
 userlist = []
-for item in tempuserlist:
-    item = item.split(' ')[0]
-    userlist.append(item)
-for user in userlist:
-    logify_nulls(user)
-    url = "http://localhost:%s/sql" % str(22212 + int(cw))
-    spayload = {'sql' : 'select persona_bm_id from sw_lead', 'user' :  user}
-    resp  = requests.post(url, data=spayload)
-    html = resp.text
-    if html.find('<td>') == -1:
-        continue
-    html = html.split('<td>')
-    filterlist = []
-    bufferlist = []
-    for item in html:
-        filterlist.append(item.split('</tr>'))
-    for item in filterlist:
-        for oitem in item:
-            if oitem.isdigit():
-                bufferlist.append(oitem)
-    if len(bufferlist) > 0:
-        idlist.append({user:bufferlist})
+logger.write('going over all users in search of data\n')
+print 'going over all users in search of data'
+for user in jsonresp:
+    for key in jsonresp[user]:
+        if 'row' in key:
+            print 'found data for user %s' % user
+            logger.write('found data for user %s\n' % user)
+            userlist.append([user, cw, jsonresp[user][key][0], jsonresp[user][key][1], jsonresp[user][key][2], jsonresp[user][key][3] + " " +  jsonresp[user][key][4], jsonresp[user][key][5], jsonresp[user][key][6]])
+print 'going over all users found, calling for blocksForBookmark'
+logger.write('going over all users found, calling for blocksForbookmark\n')
+for i in range(len(userlist)):
+    user, bmid = userlist[i][0], userlist[i][3]
+    reslen = email_by_id(user, bmid)
+    logger.write('called for blocksForBookmark and got a response\n')
+    print 'called for blocksForBookmark and got a response'
+    if reslen > 1:
+        userlist[i].remove(userlist[i][3])
+        userlist[i].append(reslen)
+        print 'writing to csv'
+        logger.write('writing to csv\n')
+        csvlog.write('"%s","%s","%s","%s","%s","%s","%s","%s"\n' % tuple(a for a in userlist[i]))
 
-for item in idlist:
-    for oitem in item.values()[0]:
-        ebi = email_by_id(item.keys()[0], oitem, logger)
-        if not ebi:
-            fName = property_by_pid(item.keys()[0], oitem, 'FIRST_NAME')
-            lName = property_by_pid(item.keys()[0], oitem, 'LAST_NAME')                
-            domain = property_by_pid(item.keys()[0], oitem, 'EMAIL')
-            user = item.keys()[0]
-            CSVOldEmail= email = property_by_pid(item.keys()[0], oitem, 'FULLEMAIL')
-            CSVCompany = property_by_pid(item.keys()[0], oitem, 'COMPANY')
-            print type(fName), type(lName), fName, lName
-            if fName is None:
-                fName = ""
-            if lName is None:
-                lName = ""
-            CSVName= fName + " " + lName
-            if (domain is not None):
-                print user, email, fName, lName
-                otherlist.append({'cmd' : 'findEmail', 'fName' : fName, 'lName' : lName, 'domain' : domain, 'user' : user, 'email' : email, 'bmid' : oitem, 'blocks' : CSVPersonaBmBlocks})
-            else:
-                print 'mark'
-                CSVNewEmail = "None"
-                CSVName = fName + " " + lName
-                CSVUser = item.keys()[0]
-                CSVOldEmail = email
-                CSVCw = cw
-                csvlog.write("\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\",\"%s\"\n" % (CSVUser, CSVName, CSVCompany, CSVOldEmail, CSVNewEmail, CSVPersonaBmId, CSVPersonaBmBlocks, CSVCw, CSVLinkMail))
-
-
-        else:
-            CSVOldEmail = ebi
-            CSVCompany = property_by_pid(item.keys()[0], oitem, 'COMPANY')
-            CSVLinkMail = "Yes"
-            CSVNewEmail = "None"
-            CSVPersonaBmId = "Yes"
-            CSVPersonaBmBlocks = "Yes"
-            logify(item.keys()[0], oitem) 
-            
-for item in otherlist:
-#    print 'changing to null'
-#    change_email_to_null(item['user'], item['fName'], item['lName'], item['email'], logger)
-    print 'running email guesser'
-    CSVLinkMail = "No"
-    CSVPersonaBmId = "Yes"
-    CSVPersonaBmBlocks = item['blocks']
-    run_email_guesser(item, logger)
-    CSVOldEmail = property_by_pid(item['user'], item['bmid'], 'FULLEMAIL')
-    print 'logifying'
-    logify(item['user'], item['bmid'])
-      
-print otherlist
-logger.close()
+print 'done'
+logger.write('done\n')
+logger.close
 csvlog.close()
 end = time.time()
 print end - start
