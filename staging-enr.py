@@ -3,6 +3,15 @@ import subprocess, requests, json, time
 import codecs, sys, os
 from optparse import OptionParser
 
+
+
+###     To view list of users use 'cat enrichment.csv | grep -v first_name | cut -d',' -f1 | sort | uniq'
+###     or add wc -l at the end to count
+
+
+
+
+
 def get_cw():
     """use with --cw=[CW] for a single cw, and get the script out of the for loop"""
     usage = "%prog [options]"
@@ -28,7 +37,7 @@ for cw in cwl:
     proc = subprocess.Popen(cmd, env=os.environ, shell=True, stdin=subprocess.PIPE, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     time.sleep(5)
     url = "http://localhost:%s/sql" % str(22212 + int(cw)) # make sure a tunnel isn't already opened in these ports. cw10 will open it on port 22222, so be careful
-    sql = "select l.first_name, l.last_name,l.PERSONA_BM_STATUS,l.ANALYTICS_VERSION,c.COMPANY_BM_STATUS from sw_company as c join sw_lead as l on l.company_id=c.id where (l.persona_bm_status!='COMPLETED' or c.company_bm_status!='COMPLETED' or l.analytics_version is null)"
+    sql = "select l.first_name, l.last_name,l.PERSONA_BM_STATUS,l.ANALYTICS_VERSION,c.COMPANY_BM_STATUS from sw_lead as l left join sw_company as c on l.company_id=c.id where (l.persona_bm_status!='COMPLETED' or c.company_bm_status!='COMPLETED' or l.analytics_version is null)"
     spayload = {'sql' : sql, 'user' :  '-- all users --', 'json' : '1'}
     resp  = requests.post(url, data=spayload)
     print 'sent sql request'
@@ -37,13 +46,15 @@ for cw in cwl:
     userlist = {}
     #BEGINNING OF SCRIPT CONTENT#
     for user in jsonresp:
+        if 'test_' in user or 'projectstepwells' in user:
+            continue
         for item in jsonresp[user]:
             if 'row' in item:
                 logwrite = ''
-                logwrite+='%s,' % user
+                logwrite+='%s",' % user
                 for oitem in jsonresp[user][item]:
-                    logwrite += '%s,' % oitem
-                logger.write('%s\n' % logwrite[:-1])
+                    logwrite += '"%s",' % oitem
+                logger.write('"%s\n' % logwrite[:-1])
 
 
     #END OF SCRIPT CONTENT#            
