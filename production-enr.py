@@ -3,6 +3,15 @@ import subprocess, requests, json, time
 import codecs, sys, os
 from optparse import OptionParser
 
+
+
+###     To view list of users use cat 'enrichment.csv | grep -v first_name | cut -d',' -f1 | sort | uniq'
+###     or add wc -l at the end to count
+
+
+
+
+
 def get_cw():
     """use with --cw=[CW] for a single cw, and get the script out of the for loop"""
     usage = "%prog [options]"
@@ -19,8 +28,8 @@ def get_cw():
 
 
 #CSVCw = cw = get_cw()
-#cwl = [10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 34, 39, 40, 42, 43, 45] #list of production servers including VIP ones
-cwl = [20,35,36,37] #non-frozen staging cws
+cwl = [10, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 34, 39, 40, 42, 43, 45] #list of production servers including VIP ones
+#cwl = [20,35,36,37] #non-frozen staging cws
 for cw in cwl:
     start = time.time()
     logger = codecs.open('/home/ron/Documents/email/enr%s.csv' % cw, mode='a', encoding='utf-8') #currently writes to a CSV file.
@@ -42,10 +51,10 @@ for cw in cwl:
         for item in jsonresp[user]:
             if 'row' in item:
                 logwrite = ''
-                logwrite+='%s,' % user
+                logwrite+='%s",' % user
                 for oitem in jsonresp[user][item]:
-                    logwrite += '%s,' % oitem
-                logger.write('%s\n' % logwrite[:-1])
+                    logwrite += '"%s",' % oitem
+                logger.write('"%s\n' % logwrite[:-1])
 
 
     #END OF SCRIPT CONTENT#            

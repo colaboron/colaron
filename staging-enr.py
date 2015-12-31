@@ -37,8 +37,6 @@ for cw in cwl:
     userlist = {}
     #BEGINNING OF SCRIPT CONTENT#
     for user in jsonresp:
-        if 'test_' in user or 'projectstepwells' in user:
-            continue
         for item in jsonresp[user]:
             if 'row' in item:
                 logwrite = ''
